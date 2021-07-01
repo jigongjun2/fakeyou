@@ -9,4 +9,8 @@ hello git!
 hello git! 
 hello git! 
 hello git! 
+<<<<<<< HEAD
 aaaaaaaa
+=======
+cccccccc
+>>>>>>> hot-fix
